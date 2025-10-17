@@ -1,0 +1,11 @@
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpeta de entorno virtual
+venv/
+bin/
+obj/
+*.user
+*.suo
+*.vs/
